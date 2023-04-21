@@ -1,0 +1,48 @@
+
+liuhan01.png
+size: 144,88
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+001
+  rotate: false
+  xy: 2, 2
+  size: 97, 83
+  orig: 97, 83
+  offset: 0, 0
+  index: -1
+002
+  rotate: true
+  xy: 129, 17
+  size: 10, 11
+  orig: 10, 11
+  offset: 0, 0
+  index: -1
+003
+  rotate: true
+  xy: 133, 43
+  size: 42, 8
+  orig: 42, 8
+  offset: 0, 0
+  index: -1
+004
+  rotate: false
+  xy: 101, 37
+  size: 30, 48
+  orig: 30, 48
+  offset: 0, 0
+  index: -1
+005
+  rotate: true
+  xy: 101, 17
+  size: 18, 26
+  orig: 18, 26
+  offset: 0, 0
+  index: -1
+006
+  rotate: true
+  xy: 133, 29
+  size: 12, 7
+  orig: 12, 7
+  offset: 0, 0
+  index: -1

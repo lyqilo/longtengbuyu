@@ -1,0 +1,48 @@
+
+hjp.png
+size: 704,172
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01
+  rotate: false
+  xy: 426, 47
+  size: 247, 49
+  orig: 248, 49
+  offset: 0, 0
+  index: -1
+02
+  rotate: false
+  xy: 675, 76
+  size: 22, 20
+  orig: 24, 24
+  offset: 1, 4
+  index: -1
+03
+  rotate: false
+  xy: 426, 98
+  size: 274, 70
+  orig: 274, 73
+  offset: 0, 3
+  index: -1
+04
+  rotate: false
+  xy: 426, 2
+  size: 186, 43
+  orig: 188, 45
+  offset: 1, 1
+  index: -1
+05
+  rotate: true
+  xy: 2, 6
+  size: 162, 208
+  orig: 165, 213
+  offset: 2, 5
+  index: -1
+06
+  rotate: true
+  xy: 212, 10
+  size: 158, 212
+  orig: 158, 213
+  offset: 0, 1
+  index: -1

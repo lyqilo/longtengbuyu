@@ -1,0 +1,83 @@
+
+koubishi01.png
+size: 144,144
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+001
+  rotate: false
+  xy: 2, 66
+  size: 88, 76
+  orig: 88, 76
+  offset: 0, 0
+  index: -1
+002_1
+  rotate: true
+  xy: 112, 70
+  size: 11, 12
+  orig: 11, 12
+  offset: 0, 0
+  index: -1
+002_2
+  rotate: false
+  xy: 120, 2
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+003
+  rotate: false
+  xy: 2, 6
+  size: 97, 58
+  orig: 97, 62
+  offset: 0, 4
+  index: -1
+004
+  rotate: false
+  xy: 112, 83
+  size: 30, 18
+  orig: 32, 26
+  offset: 0, 0
+  index: -1
+004_1
+  rotate: true
+  xy: 92, 70
+  size: 31, 18
+  orig: 31, 24
+  offset: 0, 0
+  index: -1
+005_1
+  rotate: true
+  xy: 134, 133
+  size: 9, 8
+  orig: 9, 8
+  offset: 0, 0
+  index: -1
+005_2
+  rotate: true
+  xy: 134, 122
+  size: 9, 8
+  orig: 9, 8
+  offset: 0, 0
+  index: -1
+006_1
+  rotate: true
+  xy: 126, 17
+  size: 64, 15
+  orig: 64, 15
+  offset: 0, 0
+  index: -1
+006_2
+  rotate: true
+  xy: 101, 7
+  size: 61, 17
+  orig: 61, 17
+  offset: 0, 0
+  index: -1
+007
+  rotate: true
+  xy: 92, 103
+  size: 39, 40
+  orig: 39, 40
+  offset: 0, 0
+  index: -1

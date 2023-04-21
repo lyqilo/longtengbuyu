@@ -1,0 +1,125 @@
+
+jubaopen01.png
+size: 912,272
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+001
+  rotate: true
+  xy: 199, 3
+  size: 267, 178
+  orig: 267, 178
+  offset: 0, 0
+  index: -1
+002
+  rotate: true
+  xy: 379, 59
+  size: 211, 160
+  orig: 211, 160
+  offset: 0, 0
+  index: -1
+bianjie
+  rotate: false
+  xy: 669, 142
+  size: 147, 40
+  orig: 147, 40
+  offset: 0, 0
+  index: -1
+jinbi1
+  rotate: false
+  xy: 669, 89
+  size: 93, 51
+  orig: 93, 51
+  offset: 0, 0
+  index: -1
+jinbi4
+  rotate: true
+  xy: 704, 9
+  size: 78, 57
+  orig: 78, 57
+  offset: 0, 0
+  index: -1
+jinbi7
+  rotate: false
+  xy: 808, 11
+  size: 44, 51
+  orig: 44, 51
+  offset: 0, 0
+  index: -1
+tjxy_d1
+  rotate: true
+  xy: 854, 50
+  size: 21, 22
+  orig: 21, 22
+  offset: 0, 0
+  index: -1
+tjxy_dd
+  rotate: false
+  xy: 2, 16
+  size: 195, 254
+  orig: 197, 256
+  offset: 1, 1
+  index: -1
+tjxy_j
+  rotate: false
+  xy: 601, 2
+  size: 101, 63
+  orig: 103, 63
+  offset: 1, 0
+  index: -1
+tjxy_j1
+  rotate: false
+  xy: 818, 121
+  size: 91, 61
+  orig: 91, 62
+  offset: 0, 1
+  index: -1
+tjxy_j2
+  rotate: true
+  xy: 817, 73
+  size: 46, 39
+  orig: 46, 40
+  offset: 0, 0
+  index: -1
+tjxy_j3
+  rotate: true
+  xy: 764, 64
+  size: 76, 51
+  orig: 76, 52
+  offset: 0, 0
+  index: -1
+tjxy_j4
+  rotate: true
+  xy: 763, 9
+  size: 53, 43
+  orig: 55, 45
+  offset: 0, 1
+  index: -1
+tjxy_ljcd
+  rotate: false
+  xy: 541, 184
+  size: 361, 86
+  orig: 362, 88
+  offset: 0, 1
+  index: -1
+tjxy_ljd
+  rotate: false
+  xy: 379, 7
+  size: 220, 50
+  orig: 221, 51
+  offset: 1, 1
+  index: -1
+tjxy_t
+  rotate: true
+  xy: 606, 83
+  size: 99, 61
+  orig: 99, 61
+  offset: 0, 0
+  index: -1
+tjxy_x
+  rotate: true
+  xy: 541, 67
+  size: 115, 63
+  orig: 115, 63
+  offset: 0, 0
+  index: -1

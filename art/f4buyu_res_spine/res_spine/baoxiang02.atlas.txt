@@ -1,0 +1,76 @@
+
+baoxiang02.png
+size: 1628,408
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baoxiang1
+  rotate: true
+  xy: 2, 18
+  size: 388, 330
+  orig: 388, 332
+  offset: 0, 0
+  index: -1
+buliangdeng
+  rotate: false
+  xy: 1204, 201
+  size: 421, 205
+  orig: 421, 205
+  offset: 0, 0
+  index: -1
+cao1
+  rotate: true
+  xy: 334, 29
+  size: 377, 249
+  orig: 377, 249
+  offset: 0, 0
+  index: -1
+diyuan
+  rotate: false
+  xy: 766, 153
+  size: 436, 253
+  orig: 436, 253
+  offset: 0, 0
+  index: -1
+gaizi1
+  rotate: true
+  xy: 585, 74
+  size: 332, 179
+  orig: 332, 179
+  offset: 0, 0
+  index: -1
+liangdeng
+  rotate: false
+  xy: 334, 2
+  size: 24, 25
+  orig: 26, 26
+  offset: 1, 0
+  index: -1
+youshasngxing
+  rotate: false
+  xy: 1204, 8
+  size: 198, 191
+  orig: 199, 192
+  offset: 0, 1
+  index: -1
+youxiaxing
+  rotate: false
+  xy: 975, 23
+  size: 209, 128
+  orig: 209, 129
+  offset: 0, 1
+  index: -1
+zuoshangxing
+  rotate: false
+  xy: 1404, 8
+  size: 198, 191
+  orig: 200, 193
+  offset: 0, 2
+  index: -1
+zuoxiaxing
+  rotate: false
+  xy: 766, 22
+  size: 207, 129
+  orig: 209, 130
+  offset: 0, 1
+  index: -1

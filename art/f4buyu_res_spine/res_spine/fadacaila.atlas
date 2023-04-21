@@ -1,0 +1,48 @@
+
+fadacaila.png
+size: 436,248
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01
+  rotate: true
+  xy: 327, 2
+  size: 243, 61
+  orig: 243, 61
+  offset: 0, 0
+  index: -1
+02
+  rotate: false
+  xy: 390, 34
+  size: 22, 23
+  orig: 24, 24
+  offset: 1, 1
+  index: -1
+03
+  rotate: false
+  xy: 2, 5
+  size: 274, 70
+  orig: 274, 73
+  offset: 0, 3
+  index: -1
+04
+  rotate: true
+  xy: 390, 59
+  size: 186, 43
+  orig: 188, 45
+  offset: 1, 1
+  index: -1
+05
+  rotate: false
+  xy: 176, 100
+  size: 149, 145
+  orig: 152, 148
+  offset: 2, 2
+  index: -1
+06
+  rotate: true
+  xy: 2, 77
+  size: 168, 172
+  orig: 171, 174
+  offset: 1, 1
+  index: -1

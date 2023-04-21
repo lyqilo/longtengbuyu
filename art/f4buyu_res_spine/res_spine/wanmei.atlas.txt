@@ -1,0 +1,48 @@
+
+wanmei.png
+size: 384,272
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01
+  rotate: true
+  xy: 320, 49
+  size: 220, 62
+  orig: 220, 62
+  offset: 0, 0
+  index: -1
+02
+  rotate: false
+  xy: 278, 246
+  size: 22, 23
+  orig: 24, 24
+  offset: 1, 1
+  index: -1
+03
+  rotate: false
+  xy: 2, 199
+  size: 274, 70
+  orig: 274, 73
+  offset: 0, 3
+  index: -1
+04
+  rotate: false
+  xy: 173, 2
+  size: 186, 44
+  orig: 188, 45
+  offset: 1, 1
+  index: -1
+05
+  rotate: true
+  xy: 173, 48
+  size: 149, 145
+  orig: 152, 148
+  offset: 2, 2
+  index: -1
+06
+  rotate: false
+  xy: 2, 25
+  size: 169, 172
+  orig: 171, 175
+  offset: 0, 2
+  index: -1

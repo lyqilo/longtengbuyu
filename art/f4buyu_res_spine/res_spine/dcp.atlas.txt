@@ -1,0 +1,48 @@
+
+dcp.png
+size: 240,492
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01
+  rotate: false
+  xy: 74, 11
+  size: 163, 51
+  orig: 170, 64
+  offset: 1, 8
+  index: -1
+02
+  rotate: false
+  xy: 166, 279
+  size: 22, 22
+  orig: 24, 24
+  offset: 1, 2
+  index: -1
+03
+  rotate: true
+  xy: 2, 2
+  size: 274, 70
+  orig: 274, 73
+  offset: 0, 3
+  index: -1
+04
+  rotate: true
+  xy: 166, 303
+  size: 186, 43
+  orig: 188, 45
+  offset: 1, 1
+  index: -1
+05
+  rotate: false
+  xy: 2, 278
+  size: 162, 211
+  orig: 165, 213
+  offset: 2, 2
+  index: -1
+06
+  rotate: false
+  xy: 74, 64
+  size: 158, 212
+  orig: 158, 213
+  offset: 0, 1
+  index: -1

@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: cjb_144
+  m_Shader: {fileID: 4800000, guid: c59c723c4cce40e085ebfdb58c23bc76, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: 0b64d2c277884769b849d70823cf5ea3, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SecondTex:
+        m_Texture: {fileID: 2800000, guid: 303291932bf1a6f488b1f426c3cf7554, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SubTex:
+        m_Texture: {fileID: 2800000, guid: 817a8038dd444a6b9eea199877d81385, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _faxian:
+        m_Texture: {fileID: 2800000, guid: a8da71f63f274fbd9c844ac693a2c6f4, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _nmtex:
+        m_Texture: {fileID: 2800000, guid: 655c86f2d95e44cbab4e530f1028599a, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _zhu_tex:
+        m_Texture: {fileID: 2800000, guid: 0b64d2c277884769b849d70823cf5ea3, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _zhuse01:
+        m_Texture: {fileID: 2800000, guid: 0b64d2c277884769b849d70823cf5ea3, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _zhuse02:
+        m_Texture: {fileID: 2800000, guid: 0b64d2c277884769b849d70823cf5ea3, type: 3}
+        m_Scale: {x: 0.074, y: 0.51}
+        m_Offset: {x: 0.86, y: 1.09}
+    m_Floats:
+    - _BumpScale: 1
+    - _Cutoff: 0.5
+    - _DetailNormalMapScale: 1
+    - _DstBlend: 0
+    - _GlossMapScale: 1
+    - _Glossiness: 0.5
+    - _GlossyReflections: 1
+    - _Metallic: 0
+    - _Mode: 0
+    - _OcclusionStrength: 1
+    - _Parallax: 0.02
+    - _Shininess: 0.5
+    - _SmoothnessTextureChannel: 0
+    - _SpecularHighlights: 1
+    - _SrcBlend: 1
+    - _UVSec: 0
+    - _ZWrite: 1
+    - _bian_01: 2.66
+    - _bian_02: -3.8
+    - _gls: 0.741
+    - _guang: -1
+    - _met: 0.995
+    - _node_1083: 1.71
+    - _node_6763: 0.711
+    - _node_7607: -0.043
+    - _zhu_01: -0.11
+    m_Colors:
+    - _1: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+    - _Color: {r: 0.33681917, g: 0.65996385, b: 0.8207547, a: 1}
+    - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    - _bian_cl: {r: 0, g: 0.001115609, b: 0.1617647, a: 1}
+    - _node_5144: {r: 0.1137255, g: 0.1921569, b: 0.2705882, a: 1}
+  m_BuildTextureStacks: []

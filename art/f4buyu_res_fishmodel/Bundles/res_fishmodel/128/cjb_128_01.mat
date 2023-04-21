@@ -1,0 +1,124 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: cjb_128_01
+  m_Shader: {fileID: 200, guid: 0000000000000000f000000000000000, type: 0}
+  m_ShaderKeywords: _KAIGUAN_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _BumpMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailAlbedoMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailMask:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailNormalMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _EmissionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: 553394c2253f4a0782a9a56b85126ae4, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MetallicGlossMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _OcclusionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ParallaxMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _faxian:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _zhuse01:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _zhuse02:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _BumpScale: 1
+    - _Cutoff: 0.5
+    - _DetailNormalMapScale: 1
+    - _DstBlend: 0
+    - _Gloss: 0.457
+    - _GlossMapScale: 1
+    - _Gloss_copy: 0.427
+    - _Glossiness: 0.5
+    - _GlossyReflections: 1
+    - _InvFade: 1
+    - _Metallic: 0.42
+    - _Mode: 0
+    - _OcclusionStrength: 1
+    - _Parallax: 0.02
+    - _SmoothnessTextureChannel: 0
+    - _SpecularHighlights: 1
+    - _SrcBlend: 1
+    - _UVSec: 0
+    - _ZWrite: 1
+    - _bian_01: 3.69
+    - _bian_02: -0.7
+    - _fg_01: 1.811586
+    - _fg_02: 2.551582
+    - _gao_01: 0.3195806
+    - _gla: 0.09250426
+    - _gls: 0.711
+    - _guang: 0.019
+    - _kaiguan: 1
+    - _met: 0.9
+    - _node_1083: 1.05
+    - _node_1806: 0.748
+    - _node_1806_copy: 1.53
+    - _node_3417: 0.06
+    - _node_3760: -0.58
+    - _node_6763: 0.572
+    - _node_7607: -0.095
+    - _node_7781: -1.9
+    - _tex_01: 0
+    - _tx_01: 1.152803
+    - _zhu_01: -0.09
+    m_Colors:
+    - _1: {r: 1, g: 1, b: 1, a: 1}
+    - _Color: {r: 0.3294118, g: 0.3294118, b: 0.3294118, a: 1}
+    - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    - _SpecColor: {r: 0.06325692, g: 0.3235071, b: 0.4779412, a: 1}
+    - _TintColor: {r: 0.5, g: 0.5, b: 0.5, a: 0.5}
+    - _bian_cl: {r: 1, g: 0, b: 0.1448274, a: 1}
+    - _fg_c: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+    - _node_1762: {r: 0, g: 0.7931032, b: 1, a: 1}
+    - _node_5144: {r: 0.1140247, g: 0.1935866, b: 0.2720588, a: 1}
+    - _node_929: {r: 0.5441177, g: 0.1301248, b: 0.06001297, a: 1}
+    - _tex_cc: {r: 1, g: 1, b: 1, a: 1}
+    - _tx_c: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+    - _zhu_color: {r: 0.3294118, g: 0.3294118, b: 0.3294118, a: 1}

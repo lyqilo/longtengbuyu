@@ -1,0 +1,97 @@
+
+fahuo01.png
+size: 1172,156
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+001
+  rotate: false
+  xy: 1049, 65
+  size: 97, 88
+  orig: 97, 88
+  offset: 0, 0
+  index: -1
+002
+  rotate: true
+  xy: 1150, 49
+  size: 43, 20
+  orig: 58, 20
+  offset: 0, 0
+  index: -1
+003
+  rotate: true
+  xy: 1150, 5
+  size: 42, 13
+  orig: 42, 20
+  offset: 0, 7
+  index: -1
+004
+  rotate: false
+  xy: 1049, 37
+  size: 77, 26
+  orig: 77, 35
+  offset: 0, 0
+  index: -1
+005
+  rotate: true
+  xy: 1148, 94
+  size: 59, 11
+  orig: 59, 11
+  offset: 0, 0
+  index: -1
+006
+  rotate: false
+  xy: 1049, 5
+  size: 49, 30
+  orig: 49, 30
+  offset: 0, 0
+  index: -1
+007
+  rotate: false
+  xy: 1100, 4
+  size: 48, 31
+  orig: 48, 31
+  offset: 0, 0
+  index: -1
+huo_00002
+  rotate: false
+  xy: 879, 4
+  size: 168, 149
+  orig: 256, 256
+  offset: 50, 49
+  index: -1
+huo_00006
+  rotate: false
+  xy: 535, 2
+  size: 170, 151
+  orig: 256, 256
+  offset: 50, 50
+  index: -1
+huo_00010
+  rotate: false
+  xy: 361, 2
+  size: 172, 151
+  orig: 256, 256
+  offset: 51, 49
+  index: -1
+huo_00014
+  rotate: false
+  xy: 2, 7
+  size: 179, 146
+  orig: 256, 256
+  offset: 49, 50
+  index: -1
+huo_00018
+  rotate: false
+  xy: 183, 5
+  size: 176, 148
+  orig: 256, 256
+  offset: 50, 50
+  index: -1
+huo_00022
+  rotate: false
+  xy: 707, 4
+  size: 170, 149
+  orig: 256, 256
+  offset: 50, 49
+  index: -1

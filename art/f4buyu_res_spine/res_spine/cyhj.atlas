@@ -1,0 +1,48 @@
+
+cyhj.png
+size: 708,180
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01
+  rotate: false
+  xy: 429, 47
+  size: 219, 58
+  orig: 224, 64
+  offset: 0, 5
+  index: -1
+02
+  rotate: false
+  xy: 650, 82
+  size: 22, 23
+  orig: 24, 24
+  offset: 1, 1
+  index: -1
+03
+  rotate: false
+  xy: 429, 107
+  size: 274, 70
+  orig: 274, 73
+  offset: 0, 3
+  index: -1
+04
+  rotate: false
+  xy: 429, 2
+  size: 186, 43
+  orig: 188, 45
+  offset: 1, 1
+  index: -1
+05
+  rotate: true
+  xy: 2, 15
+  size: 162, 211
+  orig: 165, 213
+  offset: 2, 2
+  index: -1
+06
+  rotate: true
+  xy: 215, 19
+  size: 158, 212
+  orig: 158, 213
+  offset: 0, 1
+  index: -1

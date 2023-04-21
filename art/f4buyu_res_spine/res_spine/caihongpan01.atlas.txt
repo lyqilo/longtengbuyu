@@ -1,0 +1,258 @@
+
+caihongpan01.png
+size: 460,480
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+001
+  rotate: false
+  xy: 250, 263
+  size: 25, 25
+  orig: 26, 25
+  offset: 0, 0
+  index: -1
+002
+  rotate: false
+  xy: 277, 263
+  size: 25, 25
+  orig: 26, 26
+  offset: 1, 0
+  index: -1
+009
+  rotate: false
+  xy: 277, 263
+  size: 25, 25
+  orig: 26, 26
+  offset: 1, 0
+  index: -1
+010
+  rotate: false
+  xy: 277, 263
+  size: 25, 25
+  orig: 26, 26
+  offset: 1, 0
+  index: -1
+003
+  rotate: false
+  xy: 413, 263
+  size: 24, 25
+  orig: 26, 26
+  offset: 1, 1
+  index: -1
+006
+  rotate: false
+  xy: 413, 263
+  size: 24, 25
+  orig: 26, 26
+  offset: 1, 1
+  index: -1
+011
+  rotate: false
+  xy: 413, 263
+  size: 24, 25
+  orig: 26, 26
+  offset: 1, 1
+  index: -1
+004
+  rotate: false
+  xy: 385, 237
+  size: 24, 25
+  orig: 26, 26
+  offset: 1, 1
+  index: -1
+007
+  rotate: false
+  xy: 385, 237
+  size: 24, 25
+  orig: 26, 26
+  offset: 1, 1
+  index: -1
+012
+  rotate: false
+  xy: 385, 237
+  size: 24, 25
+  orig: 26, 26
+  offset: 1, 1
+  index: -1
+005
+  rotate: true
+  xy: 385, 264
+  size: 24, 26
+  orig: 26, 26
+  offset: 1, 0
+  index: -1
+008
+  rotate: true
+  xy: 385, 264
+  size: 24, 26
+  orig: 26, 26
+  offset: 1, 0
+  index: -1
+013
+  rotate: false
+  xy: 304, 263
+  size: 25, 25
+  orig: 26, 27
+  offset: 0, 1
+  index: -1
+014
+  rotate: false
+  xy: 411, 237
+  size: 24, 24
+  orig: 26, 26
+  offset: 1, 1
+  index: -1
+015
+  rotate: false
+  xy: 358, 263
+  size: 25, 25
+  orig: 26, 26
+  offset: 0, 1
+  index: -1
+016
+  rotate: false
+  xy: 331, 263
+  size: 25, 25
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+017
+  rotate: false
+  xy: 437, 243
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+018
+  rotate: false
+  xy: 437, 243
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+019
+  rotate: false
+  xy: 290, 243
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+020
+  rotate: false
+  xy: 438, 439
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+021
+  rotate: false
+  xy: 250, 243
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+023
+  rotate: false
+  xy: 250, 243
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+022
+  rotate: false
+  xy: 330, 243
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+024
+  rotate: false
+  xy: 330, 243
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+026
+  rotate: false
+  xy: 270, 243
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+025
+  rotate: false
+  xy: 270, 243
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+028
+  rotate: false
+  xy: 310, 243
+  size: 18, 18
+  orig: 19, 19
+  offset: 0, 1
+  index: -1
+027
+  rotate: false
+  xy: 310, 243
+  size: 18, 18
+  orig: 19, 19
+  offset: 0, 1
+  index: -1
+029
+  rotate: true
+  xy: 438, 399
+  size: 18, 17
+  orig: 18, 19
+  offset: 0, 1
+  index: -1
+030
+  rotate: false
+  xy: 438, 459
+  size: 18, 18
+  orig: 19, 18
+  offset: 1, 0
+  index: -1
+031
+  rotate: false
+  xy: 438, 419
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+032
+  rotate: false
+  xy: 350, 243
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+chzp_di0
+  rotate: false
+  xy: 2, 231
+  size: 246, 246
+  orig: 246, 246
+  offset: 0, 0
+  index: -1
+chzp_di1
+  rotate: false
+  xy: 250, 290
+  size: 186, 187
+  orig: 187, 187
+  offset: 1, 0
+  index: -1
+chzp_di2
+  rotate: false
+  xy: 237, 12
+  size: 217, 217
+  orig: 217, 217
+  offset: 0, 0
+  index: -1
+chzp_di3
+  rotate: true
+  xy: 2, 2
+  size: 227, 233
+  orig: 228, 233
+  offset: 0, 0
+  index: -1

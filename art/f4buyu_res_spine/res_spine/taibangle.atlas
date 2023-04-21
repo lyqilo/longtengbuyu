@@ -1,0 +1,48 @@
+
+taibangle.png
+size: 388,272
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01
+  rotate: true
+  xy: 321, 67
+  size: 203, 63
+  orig: 203, 63
+  offset: 0, 0
+  index: -1
+02
+  rotate: false
+  xy: 278, 247
+  size: 22, 23
+  orig: 24, 24
+  offset: 1, 1
+  index: -1
+03
+  rotate: false
+  xy: 2, 200
+  size: 274, 70
+  orig: 274, 73
+  offset: 0, 3
+  index: -1
+04
+  rotate: false
+  xy: 173, 2
+  size: 187, 44
+  orig: 188, 45
+  offset: 1, 1
+  index: -1
+05
+  rotate: true
+  xy: 173, 48
+  size: 150, 146
+  orig: 152, 148
+  offset: 1, 2
+  index: -1
+06
+  rotate: false
+  xy: 2, 26
+  size: 169, 172
+  orig: 171, 175
+  offset: 0, 2
+  index: -1
