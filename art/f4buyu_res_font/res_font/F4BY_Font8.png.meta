@@ -48,7 +48,7 @@ TextureImporter:
       213: -1183340138223803998
     second: F4BY_Font8_14
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -69,6 +69,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -107,6 +108,7 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 1
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -146,6 +148,18 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: 4
@@ -484,6 +498,22 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      F4BY_Font8_0: 4285613608646904328
+      F4BY_Font8_1: 6571120891785499906
+      F4BY_Font8_10: 4942124479955469373
+      F4BY_Font8_11: -8234386547025104888
+      F4BY_Font8_12: 4920484106020328496
+      F4BY_Font8_13: 8136934324404737768
+      F4BY_Font8_14: -1183340138223803998
+      F4BY_Font8_2: 8600887862941409495
+      F4BY_Font8_3: -879836950609883842
+      F4BY_Font8_4: -5571225258022583028
+      F4BY_Font8_5: 2528081113555931758
+      F4BY_Font8_6: -7065227718190049286
+      F4BY_Font8_7: 5388244703504696534
+      F4BY_Font8_8: -8710413075493248620
+      F4BY_Font8_9: -2019629683222704555
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
